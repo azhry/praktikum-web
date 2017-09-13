@@ -1,0 +1,47 @@
+bentuklah kelompok
+tiap kelompok 4 org
+
+tugas pertama: -> deadline 3 minggu (2 oktober 2017)
+halaman portfolio kelompok
+- about
+- apa yg pernah dibikin
+- kontak
+- web yg akan dibuat utk tugas besar
+- bonus nilai 20% jika diupload ke github page / codepen
+
+tugas kumpul nanti malam:
+- nama kelompok
+- anggota kelompok
+kirim ke note line
+
+
+pilihan tugas besar: (dikasih waktu satu minggu buat mikir)
+- e-commerce
+- portal berita
+- sistem informasi akademik
+- real-time web chat (5%) -> pemrograman waktu nyata
+- search engine dengan metode vector space model (10%) -> temu kembali informasi
+- analisis sentimen dengan metode naive bayes (15%) -> nlp, pakar, spk
+- prediksi harga bahan pokok dengan metode regresi linier (15%) -> spk, jst
+- deteksi penyakit jantung dengan naive bayes (15%) -> pakar, spk
+- content-based recommendation system (15%) -> nlp
+- peringkasan teks dengan algoritma genetika (20%) -> nlp
+
+
+
+GRID
+CDN = Content Delivery Network
+
+Tugas minggu depan:
+halaman 109, 111, 116, 119, 121, 122
+kirim ke email dalam bentuk zip/rar, 
+subjek: [Tugas 2] Praktikum Pemrograman Web - NIM
+deadline: minggu 23.00 17 september 2017
+
+
+
+
+Jadi untuk materi minggu depan:
+- fungsi mysqli
+- sedikit basisdata
+- bikin sistem login

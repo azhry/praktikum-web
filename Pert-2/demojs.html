@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Demo JavaScript</title>
+
+	<script type="text/javascript">
+		var str1 = "Hello";
+		var str2 = "world!";
+		console.log(str1 + " " + str2);
+
+		var number = 3;
+		console.log(number);
+
+
+	</script>
+
+</head>
+<body>
+<h1>Demo JavaScript</h1>
+<input type="text" name="nama" id="nama" placeholder="Masukkan nama...">
+<button id="btn" onclick="ubah_nama();">Click</button>
+<h3 id="tampil_nama">NAMA</h3>
+
+<script type="text/javascript">
+	var input = document.getElementById("nama");
+
+	input.addEventListener("keypress", event_ubah_nama);
+
+	function ubah_nama() {
+		document.getElementById("tampil_nama").innerText = "PWEB";
+	}
+
+	function event_ubah_nama() {
+		document.getElementById("tampil_nama").innerText = input.value;
+	}
+</script>
+
+</body>
+</html>
