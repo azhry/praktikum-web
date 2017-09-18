@@ -1,6 +1,39 @@
 bentuklah kelompok
 tiap kelompok 4 org
 
+tugas kumpul nanti malam:
+- nama kelompok
+- anggota kelompok
+kirim ke note line
+
+pilihan tugas besar: (terakhir malam ini)
+
+- e-commerce
+- portal berita
+- sistem informasi akademik
+- sistem penjadwalan mata kuliah
+
+- real-time web chat (5%) -> pemrograman waktu nyata
+- search engine dengan metode vector space model (10%) -> temu kembali informasi
+- analisis sentimen dengan metode naive bayes (15%) -> nlp, pakar, spk
+- prediksi harga bahan pokok dengan metode regresi linier (15%) -> spk, jst
+- deteksi penyakit jantung dengan naive bayes (15%) -> pakar, spk (kelompok lifya)
+- content-based recommendation system (15%) -> nlp
+- peringkasan teks dengan algoritma genetika (20%) -> nlp
+- deteksi objek pada citra menggunakan convolutional neural network
+
+
+KELOMPOK: (ini juga)
+1. Tahu bulat bumi datar
+2.
+3.
+4.
+5.
+6.
+7. 
+
+
+
 tugas pertama: -> deadline 3 minggu (2 oktober 2017)
 halaman portfolio kelompok
 - about
@@ -9,23 +42,6 @@ halaman portfolio kelompok
 - web yg akan dibuat utk tugas besar
 - bonus nilai 20% jika diupload ke github page / codepen
 
-tugas kumpul nanti malam:
-- nama kelompok
-- anggota kelompok
-kirim ke note line
-
-
-pilihan tugas besar: (dikasih waktu satu minggu buat mikir)
-- e-commerce
-- portal berita
-- sistem informasi akademik
-- real-time web chat (5%) -> pemrograman waktu nyata
-- search engine dengan metode vector space model (10%) -> temu kembali informasi
-- analisis sentimen dengan metode naive bayes (15%) -> nlp, pakar, spk
-- prediksi harga bahan pokok dengan metode regresi linier (15%) -> spk, jst
-- deteksi penyakit jantung dengan naive bayes (15%) -> pakar, spk
-- content-based recommendation system (15%) -> nlp
-- peringkasan teks dengan algoritma genetika (20%) -> nlp
 
 
 

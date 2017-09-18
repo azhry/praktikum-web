@@ -1,0 +1,30 @@
+Tugas:
+Kerjakan sistem login dan aplikasi buku tamu pada modul praktikum halaman 67 - 71
+
+waktu: 08.00 - 09.00 
+kirim ke: arliansyah_azhary@yahoo.com
+subjek: [Tugas 3] Praktikum Pemrograman Web A - NIM
+keterangan: dikumpul dalam bentuk rar/zip, boleh pake link google drive dan sejenis
+deadline: 23 September 2017 pukul 23.23
+
+JANGAN LEWAT DEADLINE
+
+
+
+Web Security / Keamanan Web:
+- SQL Injection
+- XSS
+- Session Hijacking
+- HTTP Tampering
+- Bruteforce attack
+- Cross-site request forgery
+
+
+
+
+Materi minggu depan:
+- cookie
+- file upload
+- javascript
+	- ajax
+	- jquery
